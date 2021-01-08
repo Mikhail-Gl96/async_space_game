@@ -11,7 +11,7 @@ from physics import update_speed
 from obstacles import Obstacle, show_obstacles
 from explosion import explode
 
-DEBUG_MODE = 1
+DEBUG_MODE = 0
 
 uid_garbage_name = 'garbage'
 uid_shot_name = 'shot'
